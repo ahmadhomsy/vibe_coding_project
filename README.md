@@ -95,13 +95,6 @@ Feel free to **open an issue** or **submit a pull request** to suggest improveme
 
 ---
 
-## 📦 Releases
-You can download the latest stable release of the **Vibe Code** app here:  
-👉 [**Download Latest Release**](https://github.com/ahmadhomsy/Quiz-App/releases/latest)
-
-> This link always points to the most recent version (e.g., `v1.0.0`, `v1.1.0`, etc.).
-
----
 ## 👨🏻‍💻 Developer
 
 > Developed by **Ahmad Homsy**  
